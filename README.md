@@ -1,6 +1,4 @@
 # Research-Paper-Parser
-Usage
-
 Run the application: streamlit run research.py
 
 Upload research papers (PDF format) via the sidebar.
